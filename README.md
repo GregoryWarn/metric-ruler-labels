@@ -116,6 +116,10 @@ Feel free to recommend enhancements.
 If you find a bug or have any feedback for me just add an issue in the [issuetracker](https://github.com/Roger92/metric-ruler-labels/issues). Thx alot and i hope this module helps you in your game :)
 
 ## Changelog
+**v4.2.2**
+- Russian localization (fixed treiling comma)
+
+
 **v4.2.1**
 - Russian localization (thanks to @nPocToI4eJI)
 
